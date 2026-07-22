@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gosgconsulting.github.io/docs-gfb4um/sitemap.xml
